@@ -7,6 +7,9 @@ customer churn
 This project analyzes customer churn using **Power BI** to identify customer segments and factors associated with customer attrition.
 
 The dashboard provides an interactive overview of churn rates across different countries, contract types, and internet service categories.
+**Data:** Sample (synthetic) dataset, 2,000 customers.
+
+**Key finding:** Month-to-month customers churn the most (about 30%).
 
 ## 🛠️ Tools & Technologies
 
@@ -41,9 +44,8 @@ The dashboard includes:
 
 ## 📁 Project Files
 
-- `Customer_Churn_Analysis.pbix` – Power BI dashboard
+- `customer_churn_dashboard_power_BI.pbix` – Power BI dashboard
 - `dashboard.png` – Dashboard screenshot
-- `customer_churn.csv` – Dataset (if included)
 
 ## 💡 Skills Demonstrated
 
