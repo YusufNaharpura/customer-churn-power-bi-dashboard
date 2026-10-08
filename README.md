@@ -1,4 +1,4 @@
-# customer-chunk-power-bi-dashboard
+# customer-churn-power-bi-dashboard
 customer chunk 
 # Customer Churn Analysis – Power BI
 
