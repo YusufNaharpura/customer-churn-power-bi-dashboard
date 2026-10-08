@@ -1,5 +1,5 @@
 # customer-churn-power-bi-dashboard
-customer chunk 
+customer churn
 # Customer Churn Analysis – Power BI
 
 ## 📊 Project Overview
